@@ -11,4 +11,8 @@
     <header>
         <h1>QR Code Generator</h1>
         <p>Paste a url or enter text to create QR Code </p>
+</header>
+    <div class="form">
+        <input type="text" spellcheck="false" placeholder="Enter text or link">
+
 
